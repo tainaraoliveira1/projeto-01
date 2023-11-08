@@ -1,2 +1,2 @@
 # projeto-01
-Projeto inicial para testar p uso da plataforma Git Hub.
+Projeto inicial para testar o uso da plataforma Git Hub.
